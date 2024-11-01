@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bigelow+Rules&display=swap');
+
+body {
+  width: 100%;
+  padding: 30px 0;
+  margin: auto;
+}
+
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
